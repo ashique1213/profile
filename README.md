@@ -1,158 +1,109 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MUHAMMED%20ASHIQUE&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Self-taught+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+## 🚀 **TECH STACK**
+
 <div align="center">
 
-# 👋 Hi, I'm **MUHAMMED ASHIQUE**
+### Frontend Magic ✨
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
 
-### 🚀 Self-taught Full Stack Developer
+### Backend Power ⚡
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,celery,redis" />
 
-*Building scalable web applications with* **Python** • **Django** • **React**
+### Database & Storage 🗄️
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" />
 
----
+### DevOps & Cloud ☁️
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,render" />
 
-## 🎯 **What I Craft**
+### Development Tools 🛠️
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 💫 **WHAT I BUILD**
+
+<div align="center">
 
 ```javascript
-const developer = {
-    name: "Muhammed Ashique",
-    role: "Full Stack Developer",
-    code: ["Python", "JavaScript", "HTML", "CSS"],
-    focus: "Scalable Web Applications",
-    architecture: ["MVT", "SOLID Principles", "RESTful APIs"]
+const ashique = {
+    code: ['Python', 'JavaScript', 'HTML', 'CSS'],
+    frameworks: ['Django', 'React', 'Django REST'],
+    databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
+    architecture: ['MVT', 'RESTful APIs', 'Microservices'],
+    currentFocus: 'Scalable Web Applications',
+    funFact: 'I debug with console.log and print statements 😅'
 };
 ```
 
----
+</div>
 
-## 💻 **Tech Arsenal**
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
+
+## 🎯 **EXPERTISE**
 
 <table align="center">
-<tr>
-<td align="center" width="300">
-
-### 🎨 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td align="center" width="300">
-
-### ⚡ **Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-
-![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 🗄️ **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-<td align="center">
-
-### ☁️ **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+      <strong>Web Development</strong><br>
+      Full-stack applications
+    </td>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+      <strong>API Development</strong><br>
+      RESTful services
+    </td>
+    <td align="center" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+      <strong>Real-time Apps</strong><br>
+      WebSocket integration
+    </td>
+  </tr>
 </table>
 
----
-
-## 🛠️ **Development Tools**
+<br/>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🌐 **CONNECT WITH ME**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](your-portfolio-url)
 
 </div>
 
----
-
-## 🔥 **Core Expertise**
+<br/>
 
 <div align="center">
-
-| 🎯 **Specialization** | 🚀 **Focus Areas** |
-|:---:|:---:|
-| **Full Stack Development** | End-to-end web applications |
-| **API Development** | RESTful services with DRF |
-| **Real-time Applications** | WebSocket implementations |
-| **Database Design** | Efficient data modeling |
-| **Cloud Deployment** | Scalable infrastructure |
-| **Code Architecture** | SOLID principles & MVT |
-
-</div>
-
----
-
-## 🌟 **Development Philosophy**
-
-> *"Clean code, scalable architecture, and user-centric design"*
-
-```python
-class FullStackDeveloper:
-    def __init__(self):
-        self.name = "Muhammed Ashique"
-        self.mindset = "Growth & Innovation"
-        self.approach = "Problem-solving first"
-        
-    def build_solutions(self):
-        return {
-            "scalable": True,
-            "maintainable": True,
-            "user_focused": True
-        }
-```
-
----
-
-## 📫 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Self-taught, always learning, forever building"*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=brightgreen" alt="Profile Views"/>
-</div>
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
