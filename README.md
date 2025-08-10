@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Full+Stack+Developer;Django+%2B+React+Expert;Self-Taught+%26+Passionate" alt="Typing animation" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 <div align="center">
 
 ### 🔥 Tech Stack
