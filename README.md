@@ -1,161 +1,185 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=MUHAMMED%20ASHIQUE&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer&descAlignY=55&descSize=20)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  Hey, I'm <span style="color: #3776AB">MUHAMMED ASHIQUE</span>
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Django+Expert;React+Frontend+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Full+Stack+Developer;Django+%2B+React+Expert;Self-Taught+%26+Passionate" alt="Typing animation" />
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=blue" alt="followers"/>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-</div>
+---
 
-## 🐍 **PYTHON ECOSYSTEM**
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div align="center">
+### 🚀 **About Me**
 
-### Core Python Stack
-<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+- 🔭 **Currently building:** Scalable web applications with Django & React
+- 🌱 **Learning:** Advanced system design and microservices
+- ⚡ **Expertise:** Full-stack development with Python ecosystem
+- 🎯 **Focus:** Clean code, robust architecture, user experience
+- 💡 **Philosophy:** Self-taught, always improving, problem-solver first
+- 📫 **Reach me:** [your-email@example.com](mailto:your-email@example.com)
 
-### Frontend Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+<br clear="right"/>
 
-### Databases & Caching
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase" />
+---
 
-### DevOps & Deployment
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel" />
+## 🛠️ **Technology Stack**
 
-### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+<details>
+<summary><b>🐍 Backend & Core</b></summary>
+<br>
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<br/>
+</details>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+<details>
+<summary><b>🎨 Frontend & UI</b></summary>
+<br>
 
-## 🔥 **SPECIALIZATIONS**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="center">
+</details>
 
-### 🎯 **What I Master**
+<details>
+<summary><b>🗄️ Database & Storage</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Tools</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</details>
+
+---
+
+## 💼 **What I Build**
 
 ```python
-class PythonDeveloper:
+class FullStackDeveloper:
     def __init__(self):
         self.name = "Muhammed Ashique"
-        self.role = "Python Full Stack Developer"
-        self.expertise = [
-            "Django Web Development",
-            "REST API Development", 
-            "React Frontend Integration",
-            "Database Design & Optimization",
-            "Real-time Applications",
-            "Cloud Deployment"
-        ]
-    
-    def get_skills(self):
-        return {
-            "backend": ["Python", "Django", "Django REST Framework"],
-            "frontend": ["React", "JavaScript", "HTML/CSS"],
-            "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-            "tools": ["Docker", "Redis", "Celery", "WebSockets"],
-            "principles": ["SOLID", "MVT Architecture", "Clean Code"]
+        self.skills = {
+            "languages": ["Python", "JavaScript", "HTML", "CSS"],
+            "backend": ["Django", "Django REST Framework", "Celery"],
+            "frontend": ["React", "Redux Toolkit", "Bootstrap", "Tailwind"],
+            "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+            "tools": ["Docker", "AWS", "Git", "Nginx"]
         }
+    
+    def current_work(self):
+        return [
+            "🔥 Building scalable web applications",
+            "⚡ Developing REST APIs with DRF", 
+            "🌐 Creating responsive React frontends",
+            "📊 Designing efficient database schemas",
+            "🚀 Deploying apps on cloud platforms"
+        ]
 ```
 
-</div>
+---
 
-<br/>
+## 🎯 **Development Approach**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+<table>
+<tr>
+<td width="50%">
 
-## 🚀 **DEVELOPMENT FOCUS**
+**🏗️ Architecture**
+- MVT Pattern Implementation
+- SOLID Principles
+- Clean Code Practices
+- Scalable Design Patterns
 
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
-      <strong>🌐 Full Stack Web Apps</strong><br>
-      Django + React Integration
-    </td>
-    <td align="center" width="250">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-      <strong>🔗 REST APIs</strong><br>
-      Django REST Framework
-    </td>
-    <td align="center" width="250">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
-      <strong>⚡ Real-time Features</strong><br>
-      WebSockets & Celery
-    </td>
-  </tr>
+**🔧 Backend Focus**
+- RESTful API Development
+- Database Optimization
+- Real-time Features (WebSockets)
+- Background Task Processing
+
+</td>
+<td width="50%">
+
+**🎨 Frontend Focus**  
+- Responsive UI/UX Design
+- Component-Based Architecture
+- State Management (Redux)
+- Modern CSS Frameworks
+
+**☁️ DevOps & Deployment**
+- Containerization (Docker)
+- Cloud Deployment (AWS, Render)
+- CI/CD Best Practices
+- Performance Optimization
+
+</td>
+</tr>
 </table>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
+## 📊 **Weekly Development Breakdown**
 
-## 📈 **CORE COMPETENCIES**
+```text
+Python       ████████████████████████████████████████ 60.0%
+JavaScript   ██████████████████████████████ 45.0%
+HTML/CSS     ████████████████████ 30.0%
+SQL          ████████████ 20.0%
+Docker       ████████ 15.0%
+```
 
-<div align="center">
+---
 
-| 🛠️ **Technology** | 🎯 **Application** |
-|:---:|:---:|
-| **Python & Django** | Scalable backend development |
-| **React & JavaScript** | Interactive user interfaces |
-| **PostgreSQL & MySQL** | Database design & optimization |
-| **Docker & AWS** | Containerization & cloud deployment |
-| **Redis & Celery** | Caching & background tasks |
-| **WebSockets** | Real-time communication |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
-## 💼 **PROFESSIONAL APPROACH**
+## 🤝 **Let's Connect**
 
 <div align="center">
 
-> *"Clean Python code, robust Django architecture, seamless React integration"*
-
-### 🎓 **Self-taught Journey**
-Passionate about continuous learning and staying updated with the latest Python and web development trends.
-
-### 🏗️ **Architecture Philosophy** 
-Following SOLID principles, MVT pattern, and writing maintainable, scalable code.
-
-</div>
-
-<br/>
-
-## 🌐 **LET'S CONNECT**
-
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3776AB?style=for-the-badge&logo=python&logoColor=white)](your-portfolio-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=628fdb&line=3776ab&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Muhammed Ashique</a> - Let's build something amazing together!</i>
+</p>
