@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Full+Stack+Developer;Django+%2B+React+Expert;Self-Taught+%26+Passionate" alt="Typing animation" />
+  <br>
 </div>
 
 <div align="center">
